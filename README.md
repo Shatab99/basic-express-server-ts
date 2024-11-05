@@ -63,10 +63,7 @@ npm i
 <br>
 </div>
 
-<div align="center">
-<img src="./assets/Screenshot 2024-11-05 093115.png" alt="Alt text" width="350" height="250">
-</div>
-
+![Screenshot](./assets/Screenshot%202024-11-05%20093115.png)
 
 
 
