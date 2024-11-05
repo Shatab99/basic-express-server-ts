@@ -18,7 +18,7 @@ Hello developers ,hope you all are well.Basically in development sector most irr
     - global error (which returns same structured errors to client site )
     - validation middleware (which solves to validate zod schema in body)
   
-    ```json
+    ```
     const validate = z.object({
         body : z.object({
             // your code here
@@ -28,7 +28,7 @@ Hello developers ,hope you all are well.Basically in development sector most irr
 
 ### step 1 
 
-```json
+```
 
 git clone https://github.com/Shatab99/basic-express-server-ts.git
 
@@ -36,7 +36,7 @@ git clone https://github.com/Shatab99/basic-express-server-ts.git
 
 ### step 2
 
-```json
+```
 
 cd basic-express-server-ts
 
@@ -44,7 +44,7 @@ cd basic-express-server-ts
 
 ### step 3
 
-```json
+```
 
 rmdir /s /q .git
 
@@ -52,7 +52,7 @@ rmdir /s /q .git
 
 ### step 4
 
-```json
+```
 
 npm i 
 
