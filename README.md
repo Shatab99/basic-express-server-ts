@@ -63,6 +63,8 @@ npm i
 <br>
 </div>
 
+## Folder structure look like 
+
 ![Screenshot](./assets/Screenshot%202024-11-05%20093115.png)
 
 
