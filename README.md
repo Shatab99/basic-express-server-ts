@@ -56,7 +56,7 @@ npm i
 mkdir .env
 ```
 
-### step 6 (Paste the files on env and configure it with your way)
+### step 6 (Paste the files on env and configure it with your own way)
 
 ```
 Node_ENV= development
