@@ -29,34 +29,45 @@ Hello developers ,hope you all are well.Basically in development sector most irr
 ### step 1 
 
 ```
-
 git clone https://github.com/Shatab99/basic-express-server-ts.git
-
 ```
 
 ### step 2
 
 ```
-
 cd basic-express-server-ts
-
 ```
 
 ### step 3
 
 ```
-
 rmdir /s /q .git
-
 ```
 
 ### step 4
 
 ```
-
 npm i 
+```
+
+### step 5
 
 ```
+mkdir .env
+```
+
+### step 6 (Paste the files on env and configure it with your way)
+
+```
+Node_ENV= development
+PORT=5000
+DATABASE_URL= <Your mongo db uri>
+DefaultPass = <Your default password>
+jwt_secret= <Your jwt secret gengerated from node >
+```
+
+
+
 
 <div>
 <br>
